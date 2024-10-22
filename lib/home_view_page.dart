@@ -89,7 +89,8 @@ class _HomeViewPageState extends State<HomeViewPage> {
                   padding: EdgeInsets.symmetric(vertical: 16), backgroundColor: Colors.orange,
                 ),
                 onPressed: () {},
-                child: Text("Add To Cart", style: TextStyle(fontSize: 18)),
+                child: Text("Add To Cart", style: TextStyle(fontSize:
+                18)),
               ),
             ),
             SizedBox(height: 20),
